@@ -3,10 +3,10 @@
 Landing page desenvolvida para um clube esportivo, com foco em apresentar os serviços e atrair novos clientes.
 
 ## Tecnologias utilizadas
-- React
+-- React
 - Vite
-- CSS
-
+- Tailwind CSS
+  
 ##  Como rodar o projeto
 
 1. Clone o repositório:
