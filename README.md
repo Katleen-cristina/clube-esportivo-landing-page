@@ -42,4 +42,4 @@ Este projeto foi desenvolvido como parte de um desafio técnico, com o objetivo 
 
 ## 📄 Manual do Usuário
 
-[📥 Visualizar Manual](./public/Manual do usuário - SPORTS CLUB Anatomia do corpo.pdf)
+[Visualizar Manual](./public/Manual do usuário - SPORTS CLUB Anatomia do corpo.pdf)
