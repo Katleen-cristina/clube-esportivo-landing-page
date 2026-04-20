@@ -41,5 +41,4 @@ http://localhost:5173
 Este projeto foi desenvolvido como parte de um desafio técnico, com o objetivo de demonstrar habilidades em desenvolvimento front-end, organização de código e criação de interfaces modernas.
 
 ## 📄 Manual do Usuário
-
-[Visualizar Manual](./public/Manual do usuário - SPORTS CLUB Anatomia do corpo.pdf)
+Diretorio:./public/Manual do usuário - SPORTS CLUB Anatomia do corpo.pdf
